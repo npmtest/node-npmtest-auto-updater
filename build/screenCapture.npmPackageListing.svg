@@ -1,0 +1,18 @@
+<svg height="238" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="238" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-19 12:40:44 +0000    32749 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-19 12:40:44 +0000     5902 bytes  README.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-19 12:40:44 +0000    13440 bytes  auto-updater.js</tspan>
+<tspan x="10" y="74">  3.  2017-04-19 12:40:44 +0000     2642 bytes  package.json</tspan>
+<tspan x="10" y="90">  4.  2017-04-19 12:40:44 +0000      115 bytes  test/assets/older/package.json</tspan>
+<tspan x="10" y="106">  5.  2017-04-19 12:40:44 +0000      115 bytes  test/assets/package.json</tspan>
+<tspan x="10" y="122">  6.  2017-04-19 12:40:44 +0000      579 bytes  test/assets/update-0.1.1_save</tspan>
+<tspan x="10" y="138">  7.  2017-04-19 12:40:44 +0000      855 bytes  test/diff-dependencies.test.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-19 12:40:44 +0000     1606 bytes  test/eventEmitter.test.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-19 12:40:44 +0000     2515 bytes  test/fire-commands.check.test.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-19 12:40:44 +0000     2142 bytes  test/fire-commands.download.test.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-19 12:40:44 +0000     1680 bytes  test/fire-commands.extract.test.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-19 12:40:44 +0000     1158 bytes  test/init.test.js</tspan>
+</text>
+</svg>
